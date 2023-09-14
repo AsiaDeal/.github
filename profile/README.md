@@ -1,4 +1,4 @@
-![AsiaDealHub logo](https://www.asiadealhub.com/static/dealhub/images/asia%20dealhub-logo.png) **AsiaDealHub**
+![Image alt text](https://www.asiadealhub.com/static/dealhub/images/asia%20dealhub-logo.png =60%)
 
 ## Asia Deal Hub Pte Ltd
 
